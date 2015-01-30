@@ -2,4 +2,8 @@ xxxxxxxxxxxxxxxxxxasfdsfasd
 sdfasfdsaf
 还在阿打算
 发的很费劲扩散到发哈健康说得好风纪扣
+<<<<<<< HEAD
 asdfdasfasdd
+=======
+asdfdasfasdx
+>>>>>>> test1
